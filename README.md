@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Building and scaling full-stack applications with React, JavaScript, Python, and C#, focusing on performance, reliability, and clean architecture. A big chunk of my work revolves around real-time data pipelines using Kafka, stream processing with KSQL, and cloud-based microservices.<br>Real-world engineering problems: distributed systems, data-intensive backends, event-driven architectures, and frontend platforms that don’t collapse under scale. If it involves Kafka, APIs, or modern web stacks, I’m interested.<br>Sharpening system design at scale (trade-offs, failure modes, throughput vs latency) and pushing deeper into production-grade ML/AI use cases—not toy models, but things that actually ship and create value.<br>Advanced system design patterns, cloud-native architectures, and practical AI/ML integration into existing products—not academic theory, but deployable, maintainable solutions.<br>I’ve worked on pipelines processing millions of records and still trust logs more than dashboards—because when things break at scale, logs don’t lie.
-
+I build and scale full-stack systems using React, JavaScript, Python, and C#, with a hard focus on performance, reliability, and clean architecture. Most of my work lives in real-time, data-heavy environments—Kafka-based pipelines, KSQL stream processing, and cloud-native microservices.
+I’m drawn to real engineering problems: distributed systems, event-driven backends, and frontend platforms that hold up under real traffic instead of collapsing in production. If it involves Kafka, APIs, or modern web stacks, that’s my lane.
+Right now, I’m pushing deeper into system design at scale—understanding trade-offs, failure modes, and throughput vs. latency—and applying ML/AI in production where it actually delivers value, not demo-ware.
+I’ve worked on pipelines processing millions of records and I still trust logs more than dashboards—because when things break at scale, logs tell the truth.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/d-Sravani) 
